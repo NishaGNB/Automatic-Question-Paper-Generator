@@ -1,4 +1,4 @@
-# LLM Question Paper Generator
+# Automatic Question Paper Generator
 
 A full-stack application that helps faculty generate university examination question papers from uploaded syllabus and reference materials.
 
